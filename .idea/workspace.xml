@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5623ad2d-fe1d-44af-8c79-edb2bd271ac4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/algorithm_interview/C6 Arrays/6.4 Advancing Through An Array.md" afterPath="$PROJECT_DIR$/algorithm_interview/C6 Arrays/6.4 Advancing Through An Array.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -222,7 +223,7 @@
       <updated>1570703822493</updated>
       <workItem from="1570703824099" duration="2729000" />
       <workItem from="1571275800252" duration="652000" />
-      <workItem from="1571288209378" duration="958000" />
+      <workItem from="1571288209378" duration="1501000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1571288234138</created>
@@ -245,11 +246,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571288554667</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="C6 Array">
+      <created>1571305587506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571305587506</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4339000" />
+    <option name="totallyTimeSpent" value="4882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="0" width="1920" height="1038" extended-state="0" />
@@ -291,7 +299,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
     <MESSAGE value="update structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="update structure" />
+    <MESSAGE value="C6 Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="C6 Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
